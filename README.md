@@ -103,3 +103,13 @@ The goal is to identify key drivers of employee attrition and suggest data-backe
 The analysis reveals a **moderate attrition rate (16.12%)**, driven mostly by **R&D and Sales roles**.  
 Although average tenure (~7 years) shows stability, **job satisfaction (2.73)** and **work-life balance (2.76)** highlight areas for HR improvement.  
 Improving engagement and qualitative workplace factors will enhance retention more effectively than pay revisions alone.
+
+---
+
+📌 Data Source & License
+
+Source: "HR Dataset (Multinational Company)" by Rohit Grewal, available on Kaggle
+License: Database Contents License (DbCL) v1.0 / ODbL share-alike terms
+
+Note:
+This dataset has been used as-is (with possible minor formatting or cleaning) purely for educational and portfolio purposes.
