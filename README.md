@@ -1,6 +1,7 @@
 # HR Analytics Dashboard – Employee Insights 2025
 
-<img width="1148" height="440" alt="Capture" src="https://github.com/user-attachments/assets/013c7b85-c1fa-4119-b581-31dac3e50337" />
+<img width="1321" height="509" alt="Capture" src="https://github.com/user-attachments/assets/8e8cb821-0924-4fde-bca3-2829d89b0adc" />
+
 
 ## 📊 Objective
 This dashboard analyzes employee data to uncover attrition patterns, satisfaction levels, and workforce stability.
